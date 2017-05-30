@@ -1,0 +1,23 @@
+#banner{
+	background: url(image/banner.jpg);
+	text-align: center;
+	background-size: cover;
+	color: #fff;
+	padding: 140px 20px 90px 20px;
+}
+	#banner>h1{
+		font-family: 'Roboto Slab';
+		font-size: 50px;
+		font-weight: bold;
+		bottom: 30px;
+	}
+
+	#banner>p{
+		font-family: 'Roboto Slab';		
+		font-size: 24px;
+		font-weight: lighter;
+	}
+
+
+
+
